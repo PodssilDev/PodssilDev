@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm PodssilDev</h1>
 <h3 align="center">A Computer Science student looking to learn even more</h3>
+<h3 align="center">Studying at Universidad de Santiago de Chile.</h3>
+<h3 align="center">john.serrano@usach.cl</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=podssildev&label=Profile%20views&color=0e75b6&style=flat" alt="podssildev" /> </p>
 
@@ -8,8 +10,8 @@
 <p align="left"> <a href="https://twitter.com/mrdoopliss" target="blank"><img src="https://img.shields.io/twitter/follow/mrdoopliss?logo=twitter&style=for-the-badge" alt="mrdoopliss" /></a> </p>
 
 - 🌱 I’m currently learning **more Python and React JS**
-- 🤔 Teaching assistant in:
-* Programming Fundamentals **(Python)**: I teached basic programming fundamentals using Python for first year students at Universidad de Santiago de Chile. Some of the contents include: Basic Python Syntax, Loops, Lists, Strings, Recursion, Functions, Files, Pandas, Matplotlib and more
+- 🤔 Teaching assistant at Universidad de Santiago de Chile (USACH). Some of the teachings include :
+* Programming Fundamentals **(Python)**: I teached basic programming fundamentals using Python for first year students. Some of the contents include: Basic Python Syntax, Loops, Lists, Strings, Recursion, Functions, Files, Pandas, Matplotlib and more
 * Computer Statistics **(R)**: I answered questions from Students learning R for Computer Statistics. I also helped teachers to check practical exercises made in R and R Markdown.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
