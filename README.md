@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm PodssilDev</h1>
-<h3 align="center">A Computer Science student looking to learn even more</h3>
+<h3 align="center">A Software Engineer student looking to learn even more</h3>
 <h3 align="center">Studying at Universidad de Santiago de Chile.</h3>
 <h3 align="center">john.serrano@usach.cl</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=podssildev&label=Profile%20views&color=0e75b6&style=flat" alt="podssildev" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=podssildev" alt="podssildev" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/mrdoopliss" target="blank"><img src="https://img.shields.io/twitter/follow/mrdoopliss?logo=twitter&style=for-the-badge" alt="mrdoopliss" /></a> </p>
 
