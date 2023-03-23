@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm PodssilDev</h1>
-<h3 align="center">A Software Engineer student looking to learn even more</h3>
+<h3 align="center">A Software Engineer student looking to learn more about Software Development</h3>
 <h3 align="center">Studying at Universidad de Santiago de Chile.</h3>
 <h3 align="center">john.serrano@usach.cl</h3>
 
@@ -7,10 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/mrdoopliss" target="blank"><img src="https://img.shields.io/twitter/follow/mrdoopliss?logo=twitter&style=for-the-badge" alt="mrdoopliss" /></a> </p>
 
-- 🌱 I’m currently learning **more Python and React JS**
-- 🤔 Teaching assistant at Universidad de Santiago de Chile (USACH). Some of the teachings include :
-* Programming Fundamentals **(Python)**: I teached basic programming fundamentals using Python for first year students. Some of the contents include: Basic Python Syntax, Loops, Lists, Strings, Recursion, Functions, Files, Pandas, Matplotlib and more
-* Computer Statistics **(R)**: I answered questions from Students learning R for Computer Statistics. I also helped teachers to check practical exercises made in R and R Markdown.
+- 🌱 I’m currently teaching about Monolithic WebApps and Software Development in Methods & Techniques of Software Engineering at Universidad de Santiago de Chile (USACH)
+- 🤔 Other teaching assitants: 
+* Programming Fundamentals **(Python)** (August 2022 - December 2022): I teached basic programming fundamentals using Python for first year students. Some of the contents include: Basic Python Syntax, Loops, Lists, Strings, Recursion, Functions, Files, Pandas, Matplotlib and more
+* Computer Statistics **(R)** (August 2022 - Today): I answered questions from Students learning R for Computer Statistics. I also helped teachers to check practical exercises made in R and R Markdown.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mrdoopliss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrdoopliss" height="30" width="40" /></a>
