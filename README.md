@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/mrdoopliss" target="blank"><img src="https://img.shields.io/twitter/follow/mrdoopliss?logo=twitter&style=for-the-badge" alt="mrdoopliss" /></a> </p>
 
-- 🌱 I’m currently teaching about Monolithic WebApps and Software Development in Methods & Techniques of Software Engineering at Universidad de Santiago de Chile (USACH)
+- 🌱 I’m currently teaching about Monolithic WebApps and Software Development in [Methods & Techniques of Software Engineering](https://github.com/PodssilDev/ayudantias-tingeso-mingeso) at Universidad de Santiago de Chile (USACH)
 - 🤔 Other teaching assitants: 
-* Programming Fundamentals **(Python)** (August 2022 - December 2022): I teached basic programming fundamentals using Python for first year students. Some of the contents include: Basic Python Syntax, Loops, Lists, Strings, Recursion, Functions, Files, Pandas, Matplotlib and more
+* [Programming Fundamentals **(Python)** (August 2022 - December 2022)](https://github.com/PodssilDev/Ayudantia_FPI_E-3_2022-2): I teached basic programming fundamentals using Python for first year students. Some of the contents include: Basic Python Syntax, Loops, Lists, Strings, Recursion, Functions, Files, Pandas, Matplotlib and more
 * Computer Statistics **(R)** (August 2022 - Today): I answered questions from Students learning R for Computer Statistics. I also helped teachers to check practical exercises made in R and R Markdown.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
