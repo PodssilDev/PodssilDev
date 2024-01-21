@@ -4,7 +4,7 @@
 
 <h3 align ="center">
   
-[CV Español](https://drive.google.com/file/d/1w3mAnv95VPLbTHOIv3IIt871GlUqt2TM/view?usp=sharing) | [CV English](https://drive.google.com/file/d/14dyfLviC0nzaTloY5Emjbfzc-Up9qlWm/view?usp=sharing)
+[CV Español](https://drive.google.com/file/d/1gzk5LQaA0nl-oBHBfdIEjOdXwkUjw85j/view?usp=sharing) | [CV English](https://drive.google.com/file/d/1Q8bhWbG5Kf1IJi6ew_WX-ks158TezDWM/view?usp=sharing)
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=podssildev&label=Profile%20views&color=0e75b6&style=flat" alt="podssildev" /> </p>
