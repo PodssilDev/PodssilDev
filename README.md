@@ -58,9 +58,12 @@ React JS, Selenium, Jmeter, Visual Studio Code, IntelliJ.
 * [Doña Tencha - Pizza Shop Frontend (2022)](https://github.com/PodssilDev/DonaTencha_Pizzeria): WebApp created using React JS, consist of only Frontend for a non-existent Pizza Shop, with multiple options, including a shopping cart.
 * [MueblesStgo - Microservices WebApp (2022)](https://github.com/PodssilDev/MueblesStgo_Microservicios): WebApp that uses the Microservices Architecture. Consist of an employee management website with file upload options, CRUD options and more.
 * [MueblesStgo - Monolithic WebApp (2022)](https://github.com/PodssilDev/MueblesStgo_Monolitico): WebApp that uses the Monolithic Architecture. Consist of an employee management website with file upload options, CRUD options and more.
-* [Mist - Game Store Website (2021)](https://github.com/nic0q/Mist): Fullstack Laravel App that simulates a game store website, similar to GameStop. 
+* [Mist - Game Store Website (2021)](https://github.com/nic0q/Mist): Fullstack Laravel App that simulates a game store website, similar to GameStop.
+
 <h3> Achievements: </h3>
 
+* [Scrum Foundation Professional Certification - SFPC™](https://www.credly.com/badges/730abb26-dfff-41af-9963-ab9768a163bf/linked_in_profile) by CertiProf. March 2024.
+* Fundamentos de Arquitectura Cloud by Capacitación USACH. February 2024.
 * [Aspectos básicos de seguridad del modelado de las amenazas](https://learn.microsoft.com/es-mx/users/JohnSerranoCarrasco-3952/achievements/VKJEGXLM) by Microsoft. October 2023.
 * [Techniques for Effective Research with IEEE Xplore](https://www.linkedin.com/in/podssildev/details/certifications/1705700135691/single-media-viewer/?profileId=ACoAAEIFFt8BBrbtTgPsy0OZyspncQJ6bhFBmDE) by IEEE. September 2023.
 * [CSS and Javascript Crash Course](https://www.udemy.com/certificate/UC-1918722e-5099-4c2e-8e61-a09cd86ce214/) by Udemy. August 2023.
