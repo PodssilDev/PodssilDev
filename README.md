@@ -4,20 +4,17 @@
 
 <h3 align ="center">
   
-[CV Español](https://drive.google.com/file/d/1gzk5LQaA0nl-oBHBfdIEjOdXwkUjw85j/view?usp=sharing) | [CV English](https://drive.google.com/file/d/1Q8bhWbG5Kf1IJi6ew_WX-ks158TezDWM/view?usp=sharing)
-</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=podssildev&label=Profile%20views&color=0e75b6&style=flat" alt="podssildev" /> </p>
 
 <h3 align="left"> Personal Profile: </h3>
 <p> Passionate about computing and programming. Highly interested in software development and architecture, Full Stack programming and web
-design. Constantly learning new technologies and new skills. Knowledge of ITIL and Scrum methodology. </p>
+design and Cibersecurity. Constantly learning new technologies and new skills. Knowledge of ITIL, COBIT and Scrum. </p>
 
 <h3 align="left" > Work Experience: </h3>
 
 <h4> <b> Full Stack Developer </b> - Clínica Dental AtentoDent (August 2023 - January 2024) </h4>
 
-* Using the Scrum methodology and together with a team of 3 people, a patient tracking platform is developed for Clínica Dental Atento Dent. The platform has various functions, such as entering patients (via form and Excel file), communicating with patients from the platform (via email and WhatsApp), searching, deleting and filtering patients, among other functions. It also has a login system using JWT and is available locally to the clinic. The application is Dockerized using docker-compose.
+* Using the Scrum methodology and together with a team of 3 people, a patient tracking platform is developed for Clínica Dental AtentoDent. The platform has various functions, such as entering patients (via form and Excel file), communicating with patients from the platform (via email and WhatsApp), searching, deleting and filtering patients, among other functions. It also has a login system using JWT and is available locally to the clinic. The application is Dockerized using docker-compose.
 
 * <b>Technologies and Tools:</b> Git, Java, Spring Boot, MySQL, SonarQube, Docker, React JS, Jmeter, Jira, Trello, Visual Studio Code, IntelliJ
 
@@ -55,6 +52,7 @@ React JS, Selenium, Jmeter, Visual Studio Code, IntelliJ.
 
 <h3> Projects: </h3>
 
+* [Code Challenger - Microservices WebApp (2023)](https://github.com/PodssilDev/ayudantias-tingeso-mingeso/tree/main/pep3): WebApp that uses the Microservices Architecture. Consists of a plataform similar to Leetcode, where users can find challenge questions about Python code blocks. This WebApp was used to teach about the Microservices Architecture.
 * [Doña Tencha - Pizza Shop Frontend (2022)](https://github.com/PodssilDev/DonaTencha_Pizzeria): WebApp created using React JS, consist of only Frontend for a non-existent Pizza Shop, with multiple options, including a shopping cart.
 * [MueblesStgo - Microservices WebApp (2022)](https://github.com/PodssilDev/MueblesStgo_Microservicios): WebApp that uses the Microservices Architecture. Consist of an employee management website with file upload options, CRUD options and more.
 * [MueblesStgo - Monolithic WebApp (2022)](https://github.com/PodssilDev/MueblesStgo_Monolitico): WebApp that uses the Monolithic Architecture. Consist of an employee management website with file upload options, CRUD options and more.
@@ -62,8 +60,9 @@ React JS, Selenium, Jmeter, Visual Studio Code, IntelliJ.
 
 <h3> Achievements: </h3>
 
+* [Fundamentos de Arquitectura Cloud](https://www.credly.com/badges/4bf0af31-ecec-4cb6-a1c0-146138115e3e/public_url) by Capacitación USACH. March 2024.
 * [Scrum Foundation Professional Certification - SFPC™](https://www.credly.com/badges/730abb26-dfff-41af-9963-ab9768a163bf/linked_in_profile) by CertiProf. March 2024.
-* Fundamentos de Arquitectura Cloud by Capacitación USACH. February 2024.
+* Fundamentos de Ciberseguridad by SEGURIDAD CERO. February 2024.
 * [Aspectos básicos de seguridad del modelado de las amenazas](https://learn.microsoft.com/es-mx/users/JohnSerranoCarrasco-3952/achievements/VKJEGXLM) by Microsoft. October 2023.
 * [Techniques for Effective Research with IEEE Xplore](https://www.linkedin.com/in/podssildev/details/certifications/1705700135691/single-media-viewer/?profileId=ACoAAEIFFt8BBrbtTgPsy0OZyspncQJ6bhFBmDE) by IEEE. September 2023.
 * [CSS and Javascript Crash Course](https://www.udemy.com/certificate/UC-1918722e-5099-4c2e-8e61-a09cd86ce214/) by Udemy. August 2023.
