@@ -34,7 +34,7 @@ design and Cibersecurity. Constantly learning new technologies and new skills. K
 
 <h3> Projects: </h3>
 
-* [Recetario Libre - Typesense powered search app](https://github.com/PodssilDev/RecetarioLibre): WebApp that uses Typesense, React JS and InstantSearch.JS to create a powerfull recipe search engine focused on dietary restrictions. It has multiple filter options, highlighting and over 100 recipes of different types of food.
+* [Recetario Libre - Typesense powered search app (2024)](https://github.com/PodssilDev/RecetarioLibre): WebApp that uses Typesense, React JS and InstantSearch.JS to create a powerfull recipe search engine focused on dietary restrictions. It has multiple filter options, highlighting and over 100 recipes of different types of food.
 * [Code Challenger - Microservices WebApp (2023)](https://github.com/PodssilDev/ayudantias-tingeso-mingeso/tree/main/pep3): WebApp that uses the Microservices Architecture. Consists of a plataform similar to Leetcode, where users can find challenge questions about Python code blocks. This WebApp was used to teach about the Microservices Architecture.
 * [Doña Tencha - Pizza Shop Frontend (2022)](https://github.com/PodssilDev/DonaTencha_Pizzeria): WebApp created using React JS, consist of only Frontend for a non-existent Pizza Shop, with multiple options, including a shopping cart.
 * [MueblesStgo - Microservices WebApp (2022)](https://github.com/PodssilDev/MueblesStgo_Microservicios): WebApp that uses the Microservices Architecture. Consist of an employee management website with file upload options, CRUD options and more.
