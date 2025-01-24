@@ -44,6 +44,7 @@ design and Cibersecurity. Constantly learning new technologies and new skills. K
 
 <h3> Achievements: </h3>
 
+* [Bootcamp en Seguridad de la Información y Ciberseguridad - CyberConecta 2024](https://www.credly.com/badges/543574ee-079a-489c-ab44-4b57d0653c2c/public_url) by Capacitación USACH. September 2024.
 * [Fundamentos de Seguridad de Redes - CyberConecta 2024](https://www.credly.com/badges/ebdee040-7843-4fa9-95d6-71a51ece7bd0/public_url) by Capacitación USACH. September 2024.
 * [Fundamentos de Arquitectura Cloud](https://www.credly.com/badges/4bf0af31-ecec-4cb6-a1c0-146138115e3e/public_url) by Capacitación USACH. March 2024.
 * [Scrum Foundation Professional Certification - SFPC™](https://www.credly.com/badges/730abb26-dfff-41af-9963-ab9768a163bf/linked_in_profile) by CertiProf. March 2024.
