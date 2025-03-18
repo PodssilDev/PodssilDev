@@ -16,8 +16,8 @@
 design and Cibersecurity. Constantly learning new technologies and new skills. Knowledge of ITIL, NIST, COBIT and Scrum. </p>
 
 <h3 align="left" > Work Experience: </h3>
-<h4> <b> Adjunct Professor: Programming Fundamentals for Engineering  </b> - Facultad de Ingeniería USACH (September 2024 - January 2025)</h4>
-<h4> <b>Teaching Assistant: Computer Fundamentals</b> - Departamento de Ingeniería Informática USACH (April 2024 - January 2025) </h4>
+<h4> <b> Adjunct Professor: Programming Fundamentals for Engineering  </b> - Facultad de Ingeniería USACH (September 2024 - Currently)</h4>
+<h4> <b>Teaching Assistant: Computer Fundamentals</b> - Departamento de Ingeniería Informática USACH (April 2024 - Currently) </h4>
 <h4> <b> Teaching Assistant: IT Service Management </b> - Departamento de Ingeniería Informática USACH (April 2024 - August 2024) </h4>
 <h4> <b> Full Stack Developer </b> - Clínica Dental AtentoDent (August 2023 - January 2024) </h4>
 <h4> <b> Teaching Assistant: Techniques / Methods of Software Engineering </b> - Departamento de Ingeniería Informática USACH (March 2023 - August 2023)</h4>
