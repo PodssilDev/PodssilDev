@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm PodssilDev</h1>
-<h3 align="center">A passionate Full Stack Developer and Cybersecurity enthusiast from Chile</h3>
+<h3 align="center">A passionate Cybersecurity enthusiast from Chile. Also interested in Full Stack Development</h3>
 <h3 align="center">john.serrano@usach.cl</h3>
 
-<h3 align="left">Something caught your attention or you want to learn more about my work experience or achievements? Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/podssildev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="podssildev" height="30" width="40" /></a>
+<h3 align="left">Something caught your attention or you want to learn more about my work experience or achievements? Connect with me: <a href="https://linkedin.com/in/podssildev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="podssildev" height="30" width="40" /></a> </h3>
 </p>
                                                           
 <h3 align ="center">
@@ -17,12 +15,8 @@ design and Cibersecurity. Constantly learning new technologies and new skills. K
 
 <h3 align="left" > Work Experience: </h3>
 <h4> <b> Adjunct Professor: Programming Fundamentals for Engineering  </b> - Facultad de Ingeniería USACH (September 2024 - Currently)</h4>
-<h4> <b>Teaching Assistant: Computer Fundamentals</b> - Departamento de Ingeniería Informática USACH (April 2024 - Currently) </h4>
-<h4> <b> Teaching Assistant: IT Service Management </b> - Departamento de Ingeniería Informática USACH (April 2024 - August 2024) </h4>
+<h4> <b>Teaching Assistant </b> - Departamento de Ingeniería Informática USACH (September 2022 - July 2025) </h4>
 <h4> <b> Full Stack Developer </b> - Clínica Dental AtentoDent (August 2023 - January 2024) </h4>
-<h4> <b> Teaching Assistant: Techniques / Methods of Software Engineering </b> - Departamento de Ingeniería Informática USACH (March 2023 - August 2023)</h4>
-<h4> <b> Teaching Assistant: Computer Statistics </b> - Departamento de Ingeniería Informática USACH (August 2022 - August 2023)</h4>
-<h4> <b> Teaching Assistant: Programming Fundamentals for Engineering  </b> - Facultad de Ingeniería USACH (August 2022 - December 2022)</h4>
 <h3 align="left">Education:</h3>
 
 <p> 6 year (Civil) Software Engineer - Universidad de Santiago de Chile (2020 - Present) </p>
