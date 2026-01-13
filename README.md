@@ -12,7 +12,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=podssildev&label=Profile%20views&color=0e75b6&style=flat" alt="podssildev" /> </p>
 
 <div align="center">
-<img src = "https://i.pinimg.com/originals/8c/ba/1d/8cba1d205f9da6011ed76deb391a0aa5.gif" height = "180"/>
+<img src = "https://i.pinimg.com/originals/8c/ba/1d/8cba1d205f9da6011ed76deb391a0aa5.gif" height = "120"/>
 </div>
 
 ---
