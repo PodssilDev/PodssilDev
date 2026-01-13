@@ -148,6 +148,6 @@
 </div>
           
 ## 🤝 Connect with Me
- <a href="www.linkedin.com/in/podssildev">
+ <a href="https://www.linkedin.com/in/podssildev/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
