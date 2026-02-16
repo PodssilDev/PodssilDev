@@ -7,7 +7,10 @@
 
 <h3 align="center">john.serrano@usach.cl</h3>
 
-<h3 align="center">Portfolio: COMING SOON</h3>
+<h3 align="center"> 
+  
+  [Check out my Portfolio!](https://podssildev-portfolio-2026.vercel.app) 
+</h3>
   
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=podssildev&label=Profile%20views&color=0e75b6&style=flat" alt="podssildev" /> </p>
 
